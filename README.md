@@ -9,7 +9,6 @@ The goal of these projects is to understand data visually and improve my skills 
 - NumPy
 - Matplotlib
 - Seaborn
-- Plotly
 
 ## Projects
 
